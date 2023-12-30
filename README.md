@@ -12,9 +12,7 @@
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Conclusão](#conclusão)
-
+* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras-do-projeto)
 
 
 # Descrição do Projeto
@@ -79,7 +77,9 @@ tabela_total = pd.concat(lista_dataframes, ignore_index=True)
 - ``Pandas``
 
 # Pessoas Desenvolvedoras do Projeto
+
 # Autores
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Mateus Torquato Fernandes</sub>](https://github.com/torquato-sys)|
-| :---: | :---: | :---: |
+[<img src="https://media.licdn.com/dms/image/D4D03AQGgLj1haidC2Q/profile-displayphoto-shrink_200_200/0/1693328101867?e=1709164800&v=beta&t=8yVhJCTWKuHdD5D8WzON438sJLFiuNNS9HvzZZy_Zqs" width="115" style="border-radius:50%">](https://github.com/torquato-sys)
+<br>
+<sub>Mateus Torquato Fernandes</sub>
