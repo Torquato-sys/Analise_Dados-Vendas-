@@ -82,6 +82,8 @@ tabela_total = pd.concat(lista_dataframes, ignore_index=True)
 
 # Autores
 
-[<img src="https://media.licdn.com/dms/image/D4D03AQGgLj1haidC2Q/profile-displayphoto-shrink_200_200/0/1693328101867?e=1709164800&v=beta&t=8yVhJCTWKuHdD5D8WzON438sJLFiuNNS9HvzZZy_Zqs" width="115" style="border-radius:50%">](https://github.com/torquato-sys)
+[<img src="https://github.com/Torquato-sys/Analise_Dados-Vendas-/assets/80015572/8c284170-6a7e-4ca8-83b0-249bb3cb93ca" width="115">](https://github.com/torquato-sys)
 <br>
 <sub>Mateus Torquato Fernandes</sub>
+
+![Banner-divulgação](https://github.com/Torquato-sys/Analise_Dados-Vendas-/assets/80015572/ea2c501f-526d-4c1c-8d69-a22571b1219e)
