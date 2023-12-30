@@ -69,6 +69,8 @@ tabela_total = pd.concat(lista_dataframes, ignore_index=True)
 ![modelagem_dados](https://github.com/Torquato-sys/Analise_Dados-Vendas-/assets/80015572/95e51c06-5c66-4edf-b3e4-937952865c8c)
 ![modelagem_dados](https://github.com/Torquato-sys/Analise_Dados-Vendas-/assets/80015572/59393bc7-c462-4d3c-aab9-9b53d45ab5ea)
 ![modelagem_dados](https://github.com/Torquato-sys/Analise_Dados-Vendas-/assets/80015572/62060617-8721-4574-8221-79d8daa30f03)
+![grafico](https://github.com/Torquato-sys/Analise_Dados-Vendas-/assets/80015572/b167d6a3-dbed-49d2-809c-3fb00f77b42d)
+
 
 # Tecnologias utilizadas
 - ``Python 3.x``
