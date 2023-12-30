@@ -77,3 +77,9 @@ tabela_total = pd.concat(lista_dataframes, ignore_index=True)
 - ``VSCode IDE``
 - ``Jupter Notebook``
 - ``Pandas``
+
+# Pessoas Desenvolvedoras do Projeto
+# Autores
+
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Mateus Torquato Fernandes</sub>](https://github.com/torquato-sys)|
+| :---: | :---: | :---: |
