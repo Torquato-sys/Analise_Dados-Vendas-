@@ -33,8 +33,8 @@ for arquivo in lista_arquivo:
        tabela = pd.read_csv(f"Vendas/{arquivo}")
        tabela_total = tabela_total.append(tabela)
 ```
-### O .append apresentava erro ao tentar adicionar os .csv no DataFrame(). Erro: Erro ao processar o arquivo Vendas - Belo Horizonte.csv: 'DataFrame' object has no attribute 'append'
-### Porém com a biblioteca glob conseguimus simular a mesma coisa que o pandas iria fazer.
+### O .append() apresentava erro ao tentar adicionar os .csv no DataFrame(). Erro: Erro ao processar o arquivo Vendas - Belo Horizonte.csv: 'DataFrame' object has no attribute 'append'
+### Porém com a biblioteca glob conseguimos simular a mesma coisa que o pandas iria fazer.
 ## Codigo com glob:
 ```ruby
 arquivos_vendas = glob.glob('Vendas/Vendas*.csv')
